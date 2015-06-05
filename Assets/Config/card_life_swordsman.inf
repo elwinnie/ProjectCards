@@ -1,0 +1,22 @@
+NAME    SWORDSMAN
+
+ABILITY    This trained fighter hurts everyone who attacks him for $2. ^Cannot attack $Life ^creatures.
+SPELL      None
+CAST       None
+
+SPELLNAME    CONCENTRATION
+SPELLTARGET  ENEMIES
+
+ELEMENT   LIFE
+LEVEL     4
+HEALTH    19
+ATTACK    3
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_swordsman
+BIGIMAGE  big_life_swordsman
+
+CUSTOMSFX       -1
+PRICE           0 0 100 0
+HOMEBUILDING    Pegasus Cliff

@@ -1,0 +1,22 @@
+NAME    PYTHON
+
+ABILITY    Whenever it attacks a creature, this creature permanently loses $1 ^attack, if its attack is more than $2.
+SPELL      $Suffocate. ^Kill creature if it has health less or equal $5.
+CAST       None
+
+SPELLNAME    SUFFOCATE
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     8
+HEALTH    23
+ATTACK    6
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_pithon
+BIGIMAGE  big_earth_pithon
+
+CUSTOMSFX       -1
+PRICE           0 100 0 0
+HOMEBUILDING    Monster's Nest

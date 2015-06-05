@@ -1,0 +1,22 @@
+NAME    ELEMENTAL
+
+ABILITY    Attack equal to owner's $Earth. ^Increases $Earth ^by $1 ^every turn. Fire spells deal additional $10 ^damage.
+SPELL      Casts $Stone Skin ^onto owner's creature. That creature gain $1 ^point of defence from all attacks greater than $1.
+CAST       None
+
+SPELLNAME    STONESKIN
+SPELLTARGET  FRIENDLY
+
+ELEMENT   EARTH
+LEVEL     13
+HEALTH    45
+ATTACK    0
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_elemental
+BIGIMAGE  big_earth_elemental
+
+CUSTOMSFX       -1
+PRICE           0 25 1 0
+HOMEBUILDING    Earth Temple

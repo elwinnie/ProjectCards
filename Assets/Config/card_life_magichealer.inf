@@ -1,0 +1,22 @@
+NAME    MAGIC HEALER
+
+ABILITY   Whenever owner player loses health, $Magic Healer ^heals player by this amount, losing hit points equally.
+SPELL     Nothing.
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     3
+HEALTH    12
+ATTACK    2
+CASTER    No
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_magichealer
+BIGIMAGE  big_life_magichealer
+
+CUSTOMSFX       -1
+PRICE           0 0 60 0
+HOMEBUILDING    Ancient Temple

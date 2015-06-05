@@ -1,0 +1,22 @@
+NAME    BLACK MAGE
+
+ABILITY    If enemy casts a spell, harm him for $4. ^Restores owner's $Death ^element to at least $3 ^at the beginning of owner's turn.
+SPELL      $Extract Soul ^turns one of your (living) troops into $Skeleton ^with $10 ^health.
+CAST       None
+
+SPELLNAME    EXTRACT SOUL
+SPELLTARGET  FRIENDLY
+
+ELEMENT   DEATH
+LEVEL     8
+HEALTH    21
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_darkmage
+BIGIMAGE  big_death_darkmage
+
+CUSTOMSFX       -1
+PRICE           30 30 30 30
+HOMEBUILDING    Black Citadel

@@ -1,0 +1,22 @@
+NAME    WALL OF FIRE
+
+ABILITY    When summoned, deals $4 ^damage to each enemy creature. Loses $4 ^health each turn.
+SPELL      None
+CAST       None
+
+SPELLNAME    SHURIKEN
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     3
+HEALTH    25
+ATTACK    0
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_walloffire
+BIGIMAGE  big_fire_walloffire
+
+CUSTOMSFX       -1
+PRICE           0 0 0 50
+HOMEBUILDING    Circle of Doom

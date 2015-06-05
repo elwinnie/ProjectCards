@@ -1,0 +1,22 @@
+NAME	NECROMANCER
+
+ABILITY	   $+1 ^to $Death ^every turn. Permanently increases attack by $2 ^each time $Death ^spell is cast.
+SPELL	   $Dark Summon ^summons a $Ghost ^into free slot. Can only cast if creature died in the presence of Necromancer.
+CAST       None
+
+SPELLNAME    DARK SUMMON
+SPELLTARGET  EMPTY_OWNER
+
+ELEMENT   DEATH
+LEVEL     12
+HEALTH    45
+ATTACK    5
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_necromancer
+BIGIMAGE  big_death_necromancer
+
+CUSTOMSFX       -1
+PRICE           60 60 60 60
+HOMEBUILDING    Slaughter House

@@ -1,0 +1,22 @@
+NAME    ELEMENTALIST
+
+ABILITY    No damage from creatures with level less than $4.
+SPELL      $Magic Link: ^links self to enemy creature. That creature suffers same damage as $Elementalist ^does. Cost $1 ^of each element.
+CAST       None
+
+SPELLNAME    MAGIC LINK
+SPELLTARGET  ENEMIES
+
+ELEMENT   WATER
+LEVEL     7
+HEALTH    18
+ATTACK    3
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_elementalist
+BIGIMAGE  big_water_elementalist
+
+CUSTOMSFX       -1
+PRICE           50 0 0 0
+HOMEBUILDING    Spire of Acid

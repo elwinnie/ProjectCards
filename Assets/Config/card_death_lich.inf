@@ -1,0 +1,22 @@
+NAME    LICH
+
+ABILITY    When summoned, deals $10 ^damage to creature in the opposite slot and two adjacent slots. Extra 5 damage to Life units.
+SPELL      Casts $Death Bolt, ^hitting enemy player with $7 ^of damage. Owner loses $5 Death. If owner's Death becomes zero, he suffers 10 damage.
+CAST       Choose
+
+SPELLNAME    DEATH BOLT
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     10
+HEALTH    18
+ATTACK    7
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_lich
+BIGIMAGE  big_death_lich
+
+CUSTOMSFX       -1
+PRICE           40 40 40 40
+HOMEBUILDING    Tomb of The Cursed

@@ -1,0 +1,23 @@
+NAME      EFREET
+
+ABILITY   Those who attacks Efreet, suffers half of damage dealt. On summon deals 6 damage to enemy $Water ^creatures.
+SPELL     Casts $Fire Shield ^on any owner's creature. Costs $2 Fire. Fire Shield ^burns creature from inside, damaging it for $2 ^points per turn, unless it's a $Fire ^creature.
+CAST      None
+
+SPELLNAME    FIRE SHIELD
+SPELLTARGET  FRIENDLY
+
+ELEMENT   FIRE
+LEVEL     10
+HEALTH    33
+ATTACK    6
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_fire_efreet
+BIGIMAGE  big_fire_efreet
+
+CUSTOMSFX       2
+PRICE           30 15 2 0
+HOMEBUILDING    Lava Fountain
+

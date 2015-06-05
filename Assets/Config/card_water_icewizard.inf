@@ -1,0 +1,23 @@
+NAME    ICE WIZARD
+
+ABILITY    Increases $Water ^by $2 ^every turn. Suffers $200% ^damage from fire. All damage from $Water ^equal to $1.
+SPELL      Casting $Healing Water ^heals owner equal to $2*Water ^points. Owner loses all $Water.
+CAST       None
+
+SPELLNAME    HEALING WATER
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     10
+HEALTH    22
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_icewizard
+BIGIMAGE  big_water_icewizard
+
+CUSTOMSFX       -1
+PRICE           100 25 0 0
+HOMEBUILDING    Wall of Eternal Ice
+

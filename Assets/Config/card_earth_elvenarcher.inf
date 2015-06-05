@@ -1,0 +1,22 @@
+NAME    ELVEN ARCHER
+
+ABILITY    Never attacks directly. Can only shoot arrows, using casting ability.
+SPELL      Fires arrow to enemy creature, dealing $5 ^damage.
+CAST       None
+
+SPELLNAME    SHOOT
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     7
+HEALTH    19
+ATTACK    0
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_elvenarcher
+BIGIMAGE  big_earth_elvenarcher
+
+CUSTOMSFX       -1
+PRICE           0 40 0 0
+HOMEBUILDING    Wave Tower

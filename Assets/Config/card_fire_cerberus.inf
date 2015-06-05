@@ -1,0 +1,22 @@
+NAME      CERBERUS
+
+ABILITY   Attacks adjacent enemy units at a half of its strength.
+SPELL     Nothing.
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  None
+
+ELEMENT   FIRE
+LEVEL     3
+HEALTH    12
+ATTACK    4
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_cerberus
+BIGIMAGE  big_fire_cerberus
+
+CUSTOMSFX       -1
+PRICE           0 0 0 30
+HOMEBUILDING    Dragon's Lair

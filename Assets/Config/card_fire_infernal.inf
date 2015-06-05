@@ -1,0 +1,22 @@
+NAME      INFERNAL
+
+ABILITY   Whenever comes in play, you lose the weakest of your $Fire ^creatures. If you have none of them, $Infernal ^loses half of the initial health.
+SPELL     None
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     10
+HEALTH    44
+ATTACK    9
+CASTER    No
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_infernal
+BIGIMAGE  big_fire_infernal
+
+CUSTOMSFX       -1
+PRICE           0 0 0 100
+HOMEBUILDING    Grand Volcano

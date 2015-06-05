@@ -1,0 +1,23 @@
+NAME    PEGASUS
+
+ABILITY   When summoned, each owner's creature is healed for $3. ^Also, removes harmful spell effects.
+SPELL     $Holy Strike ^deals $5 ^damage to a target creature. If it is undead creature, $Pegasus ^also suffers $3 ^damage himself. Costs $2 Life.
+CAST      None
+
+SPELLNAME    HOLY STRIKE
+SPELLTARGET  ENEMIES
+
+ELEMENT   LIFE
+LEVEL     6
+HEALTH    15
+ATTACK    6
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_life_pegasus
+BIGIMAGE  big_life_pegasus
+
+CUSTOMSFX       3
+PRICE           0 0 125 0
+HOMEBUILDING    Pegasus Cliff
+

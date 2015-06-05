@@ -1,0 +1,22 @@
+NAME      DEVIL
+
+ABILITY   Damage from $Water ^is multiplied by $2. ^Whenever $Devil ^dies, owner suffers $10 ^damage.
+SPELL     $Sacrificing ^owner's $Fire ^creature gives $3 Fire ^to the owner, also healing owner by this amount.
+CAST      SACRIFICE
+
+SPELLNAME    SACRIFICE
+SPELLTARGET  FRIENDLY
+
+ELEMENT   FIRE
+LEVEL     5
+HEALTH    30
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_devil
+BIGIMAGE  big_fire_devil
+
+CUSTOMSFX       -1
+PRICE           70 0 0 0
+HOMEBUILDING    None

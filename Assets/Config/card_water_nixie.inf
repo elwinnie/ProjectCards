@@ -1,0 +1,22 @@
+NAME    NIXIE
+
+ABILITY    Causes $200% ^of damage to fire creatures. Gives owner $1 Water ^in the beginning of owner's turn.
+SPELL      Casting $Sea of Sacred ^increases owner's $Water ^by $1 ^and reduces $Fire ^by $1.
+CAST       None
+
+SPELLNAME    SEA OF SACRED
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     4
+HEALTH    10
+ATTACK    3
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_nixie
+BIGIMAGE  big_water_nixie
+
+CUSTOMSFX       -1
+PRICE           40 0 0 0
+HOMEBUILDING    Fountain of Youth

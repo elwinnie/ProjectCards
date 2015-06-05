@@ -1,0 +1,22 @@
+NAME       DRYAD
+
+ABILITY    Adjacent owner creatures' attack increases by 2, and if it's Earth creature, by 3. Dryad regenerates 2 whenever Earth spell cast.
+SPELL      Nothing.
+CAST       None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT    EARTH
+LEVEL      4
+HEALTH     12
+ATTACK     4
+CASTER     NO
+CASTCOST   0
+TYPE       MONSTER
+IMAGE      card_earth_dryad
+BIGIMAGE   big_earth_dryad
+
+CUSTOMSFX       -1
+PRICE           0 20 1 0
+HOMEBUILDING    None

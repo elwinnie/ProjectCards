@@ -1,0 +1,22 @@
+NAME    GHOST
+
+ABILITY    50% damage from monsters, 200% from spells. When attacked by enemy creature, deals $1 ^damage to owner.
+SPELL      Casts $Blood Ritual. ^As a result, owner loses $2 ^health, but gains one $Death.
+CAST       None
+
+SPELLNAME    BLOOD RITUAL
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     3
+HEALTH    13
+ATTACK    3
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_ghost
+BIGIMAGE  big_death_ghost
+
+CUSTOMSFX       -1
+PRICE           5 5 5 5
+HOMEBUILDING    Sinister Manor

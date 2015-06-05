@@ -1,0 +1,22 @@
+NAME    KOBOLD
+
+ABILITY    Blocks all damage less or equal $4. ^When attacks player, steals $1 Earth.
+SPELL      None
+CAST       None
+
+SPELLNAME    LIGHTNING
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     6
+HEALTH    14
+ATTACK    5
+CASTER    NO
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_earth_kobold
+BIGIMAGE  big_earth_kobold
+
+CUSTOMSFX       -1
+PRICE           0 50 0 0
+HOMEBUILDING    Earth Temple

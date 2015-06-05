@@ -1,0 +1,22 @@
+NAME    SEA MONSTER
+
+ABILITY    Every time it attacks, it shifts it's position to the closest free slot on the right.
+SPELL      $Feed ^on friendly creature. This will increase the attack of $Sea Monster ^by $2 ^permanently, however the creature will suffer $6 ^damage.
+CAST       None
+
+SPELLNAME    FEED
+SPELLTARGET  FRIENDLY
+
+ELEMENT   WATER
+LEVEL     12
+HEALTH    34
+ATTACK    2
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_seamonster
+BIGIMAGE  big_water_seamonster
+
+CUSTOMSFX       -1
+PRICE           85 0 0 0
+HOMEBUILDING    Wall of Eternal Ice

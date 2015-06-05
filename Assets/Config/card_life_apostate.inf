@@ -1,0 +1,22 @@
+NAME    APOSTATE
+
+ABILITY   Steals $2 ^owner's $Life ^and gives owner $1 Death ^in the beginning of owner's turn.
+SPELL     $Serves Death. ^Once cast, $Apostate ^permanently turns into a $Banshee. $Banshee ^restores only $1/2 ^of normal health.
+CAST      None
+
+SPELLNAME    SERVE DEATH
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     5
+HEALTH    14
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_apostate
+BIGIMAGE  big_life_apostate
+
+CUSTOMSFX       -1
+PRICE           0 0 80 0
+HOMEBUILDING    Pegasus Cliff

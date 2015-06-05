@@ -1,0 +1,22 @@
+NAME    ECHIDNA
+
+ABILITY    When attacks, poisons her target for 2. In the beginning of owner's turn, $Echidna ^hits all poisoned creatures for $1.
+SPELL      Nothing.
+CAST       None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     10
+HEALTH    26
+ATTACK    7
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_echidna
+BIGIMAGE  big_earth_echidna
+
+CUSTOMSFX       -1
+PRICE           0 15 2 0
+HOMEBUILDING    Echidna's Nest

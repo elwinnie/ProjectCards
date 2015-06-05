@@ -1,0 +1,22 @@
+NAME    ASSASSIN
+
+ABILITY    If opposed to a creature, deals additional $4 ^damage.
+SPELL      $Assassinate. ^Can instantly kill any creature, if it has less than $10 ^health. Cost $3 ^Death.
+CAST       None
+
+SPELLNAME    ASSASSINATE
+SPELLTARGET  ENEMIES
+
+ELEMENT   DEATH
+LEVEL     7
+HEALTH    22
+ATTACK    3
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_death_assasin
+BIGIMAGE  big_death_assasin
+
+CUSTOMSFX       -1
+PRICE           15 15 15 15
+HOMEBUILDING    Atlar of Despair

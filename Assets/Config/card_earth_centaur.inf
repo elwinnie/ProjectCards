@@ -1,0 +1,22 @@
+NAME    CENTAUR
+
+ABILITY    Attacks the same turn he was summoned (No summon sickness).
+SPELL      Strikes magic arrow into enemy player, dealing $3 ^damage. Costs $1 Earth.
+CAST       None
+
+SPELLNAME    MAGIC ARROW
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     6
+HEALTH    14
+ATTACK    5
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_earth_centaur
+BIGIMAGE  big_earth_centaur
+
+CUSTOMSFX       -1
+PRICE           0 25 0 0
+HOMEBUILDING    Earth Temple

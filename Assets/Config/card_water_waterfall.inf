@@ -1,0 +1,22 @@
+NAME    ELEMENTAL
+
+ABILITY    $+1 Water ^every turn. Heals self for $3 ^whenever any player casts water spell or summons water creature. Attack equal to owner's $Water.
+SPELL      None
+CAST       None
+
+SPELLNAME    HEALING
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     9
+HEALTH    25
+ATTACK    0
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_waterfall
+BIGIMAGE  big_water_waterfall
+
+CUSTOMSFX       -1
+PRICE           70 0 0 0
+HOMEBUILDING    Water Cathedral

@@ -1,0 +1,22 @@
+NAME      DIABLO
+
+ABILITY   Whenever a $Fire ^creature is killed, $Diablo ^adds $+5 ^to owner's $Fire.
+SPELL     Choose owner's $Fire ^creature. That creature restores $3 ^health and permamently increases attack by $2. ^Cost $1.
+CAST      DIABOLIC PATH
+
+SPELLNAME    DIABOLIC PATH
+SPELLTARGET  FRIENDLY
+
+ELEMENT   FIRE
+LEVEL     9
+HEALTH    27
+ATTACK    6
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_fire_diablo
+BIGIMAGE  big_fire_diablo
+
+CUSTOMSFX       -1
+PRICE           0 0 0 70
+HOMEBUILDING    Gates of Hell

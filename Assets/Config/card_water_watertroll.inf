@@ -1,0 +1,22 @@
+NAME    WATER TROLL
+
+ABILITY    Regenerates $3 ^health every turn. When hits a creature with level bigger than $5, ^deals double damage (also applies for $Stomp).
+SPELL      $Stomp ^deals $2 ^damage to opposed creature and other creatures in nearby slots. Cost $2 Water.
+CAST       None
+
+SPELLNAME    STOMP
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     6
+HEALTH    16
+ATTACK    4
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_water_watertroll
+BIGIMAGE  big_water_watertroll
+
+CUSTOMSFX       -1
+PRICE           75 0 0 0
+HOMEBUILDING    Magic Sphere

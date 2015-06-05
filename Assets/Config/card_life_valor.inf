@@ -1,0 +1,22 @@
+NAME    VALOR
+
+ABILITY    Whenever attacks Death creature, heals self by 4. Also heals by 1 each turn. When attacking creatures, deals damage equal to 50% of his actual attack.
+SPELL      Healing Cloud: Heals self for 5, friendly creatures for $2, and enemies for 1. Cost 3 Life.
+CAST       None
+
+SPELLNAME    HEALING CLOUD
+SPELLTARGET  NO
+
+ELEMENT   LIFE
+LEVEL     8
+HEALTH    14
+ATTACK    10
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_life_valor
+BIGIMAGE  big_life_valor
+
+CUSTOMSFX       -1
+PRICE           0 0 50 0
+HOMEBUILDING    Healing Ward

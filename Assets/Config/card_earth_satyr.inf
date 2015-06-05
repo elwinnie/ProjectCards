@@ -1,0 +1,23 @@
+NAME    SATYR
+
+ABILITY    Increases $Earth ^element by $1 ^every turn.
+SPELL      Once $Satyr ^casts $Dissolve ^it dies and creature in the opposed slot suffers $10 ^damage. If there's no creature, $5 ^damage is dealt to enemy player. Costs $1 Earth.
+CAST       None
+
+SPELLNAME    DISSOLVE
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     3
+HEALTH    10
+ATTACK    4
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_earth_satyr
+BIGIMAGE  big_earth_satyr
+
+CUSTOMSFX       -1
+PRICE           0 50 0 0
+HOMEBUILDING    Satyricon Glade
+

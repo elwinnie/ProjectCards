@@ -1,0 +1,22 @@
+NAME    VAMPIRE
+
+ABILITY    When attacks living creature, restores health equal to $50% ^of damage dealt. Maximum $30 ^health.
+SPELL      None
+CAST       None
+
+SPELLNAME    NONE
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     9
+HEALTH    22
+ATTACK    6
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_vampire
+BIGIMAGE  big_death_vampire
+
+CUSTOMSFX       -1
+PRICE           70 0 0 0
+HOMEBUILDING    None

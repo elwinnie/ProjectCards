@@ -1,0 +1,23 @@
+NAME      LAVA SPIDER
+
+ABILITY   Heals for $2 ^every turn, increasing maximum health accordingly. 
+SPELL     Burns enemy creature for $4.
+CAST      None
+
+SPELLNAME    BURN
+SPELLTARGET  ENEMIES
+
+ELEMENT   FIRE
+LEVEL     6
+HEALTH    5
+ATTACK    2
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_lavaspider
+BIGIMAGE  big_fire_lavaspider
+
+CUSTOMSFX       -1
+PRICE           0 0 0 50
+HOMEBUILDING    Lava Fountain
+

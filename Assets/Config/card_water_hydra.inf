@@ -1,0 +1,23 @@
+NAME    HYDRA
+
+ABILITY    Attacks both adjacent slots. Reduces owner's $Water ^by $2 ^every turn.
+SPELL      Consumes friendly unit, receiving up to $50% ^of his health.
+CAST       None
+
+SPELLNAME    FEED
+SPELLTARGET  FRIENDLY
+
+ELEMENT   WATER
+LEVEL     13
+HEALTH    29
+ATTACK    5
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_hydra
+BIGIMAGE  big_water_hydra
+
+CUSTOMSFX       -1
+PRICE           100 0 0 0
+HOMEBUILDING    Epic Lake
+

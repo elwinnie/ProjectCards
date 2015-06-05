@@ -1,0 +1,22 @@
+NAME    MONK
+
+ABILITY    Heals friendly creatures by $1 ^each turn. Heals owner by $2 ^each turn.
+SPELL      $True Prayer ^on enemy creature reduces this creature's attack by $2 ^permanently (to no less than $1 ^). Cost $1 Life.
+CAST       None
+
+SPELLNAME    TRUE PRAYER
+SPELLTARGET  ENEMIES
+
+ELEMENT   LIFE
+LEVEL     7
+HEALTH    16
+ATTACK    1
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_life_monk
+BIGIMAGE  big_life_monk
+
+CUSTOMSFX       -1
+PRICE           0 0 50 0
+HOMEBUILDING    Healing Ward

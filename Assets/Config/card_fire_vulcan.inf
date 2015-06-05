@@ -1,0 +1,23 @@
+NAME      ELEMENTAL
+
+ABILITY   $+1 Fire ^every turn. Immune to harmful $Fire ^spells. When summoned, enemy player loses $3 Fire, ^and opposed unit suffers $9 ^damage. Attack equal owner's $Fire.
+SPELL     None
+CAST      None
+
+SPELLNAME    EXPLODE
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     10
+HEALTH    27
+ATTACK    0
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_vulcan
+BIGIMAGE  big_fire_vulcan
+
+CUSTOMSFX       -1
+PRICE           0 0 0 60
+HOMEBUILDING    Spiked Crystal
+

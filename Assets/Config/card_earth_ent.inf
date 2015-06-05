@@ -1,0 +1,22 @@
+NAME    ENT
+
+ABILITY    Attacks opposed unit and enemy player at the same time.
+SPELL      Casts $Entangle Roots, ^damaging each enemy for $1 ^and losing $2 ^points of own health.
+CAST       None
+
+SPELLNAME    ENTANGLE ROOTS
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     7
+HEALTH    22
+ATTACK    3
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_ent
+BIGIMAGE  big_earth_ent
+
+CUSTOMSFX       -1
+PRICE           0 60 0 0
+HOMEBUILDING    Enchanted Forest

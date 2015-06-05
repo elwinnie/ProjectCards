@@ -1,0 +1,22 @@
+NAME    ICE WALL
+
+ABILITY    When enemy creature attacks it, deals $2 ^damage to this creature. Loses $2 ^health each turn.
+SPELL      $Shift ^- cost $1 Water, ^and you can shift the position with any friendly creature. This creature loses $1 ^health.
+CAST       None
+
+SPELLNAME    SHIFT
+SPELLTARGET  FRIENDLY
+
+ELEMENT   WATER
+LEVEL     5
+HEALTH    24
+ATTACK    0
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_water_icewall
+BIGIMAGE  big_water_icewall
+
+CUSTOMSFX       -1
+PRICE           20 0 0 0
+HOMEBUILDING    Fountain of Youth

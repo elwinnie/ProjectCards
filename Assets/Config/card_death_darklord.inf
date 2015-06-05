@@ -1,0 +1,22 @@
+NAME    DARKLORD
+
+ABILITY    Whenever creature dies, $Darklord ^heals owner for $3 ^and regenerates self for $2.
+SPELL      None
+CAST       None
+
+SPELLNAME    STEAL SPELL
+SPELLTARGET  ENEMIES
+
+ELEMENT   DEATH
+LEVEL     8
+HEALTH    14
+ATTACK    4
+CASTER    NO
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_death_darklord
+BIGIMAGE  big_death_darklord
+
+CUSTOMSFX       -1
+PRICE           10 10 10 10
+HOMEBUILDING    Tomb of The Cursed

@@ -1,0 +1,23 @@
+NAME    CHIMERA
+
+ABILITY   Every spell casting costs 50% less for the owner. Whenever you summon creature, you gain health equal to this creature's level.
+SPELL     Nothing.
+CAST      None
+
+SPELLNAME    SERVE
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     13
+HEALTH    30
+ATTACK    10
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_chimera
+BIGIMAGE  big_life_chimera
+
+CUSTOMSFX       -1
+PRICE           0 0 200 0
+HOMEBUILDING    Altar of Life
+

@@ -1,0 +1,22 @@
+NAME    MEGAWORM
+
+ABILITY    Deals $3 ^damage to owner's creatures every turn.
+SPELL      None
+CAST       None
+
+SPELLNAME    STONESKIN
+SPELLTARGET  FRIENDLY
+
+ELEMENT   EARTH
+LEVEL     11
+HEALTH    45
+ATTACK    12
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_worm
+BIGIMAGE  big_earth_worm
+
+CUSTOMSFX       -1
+PRICE           0 250 0 0
+HOMEBUILDING    Ancient Tree

@@ -1,0 +1,23 @@
+NAME    LEVIATHAN
+
+ABILITY    When attacking, each enemy creature suffers $1 ^damage in addition to standard attack.
+SPELL      Casting $Curing ^heals owner for $4. ^In exchange, owner loses $1 Water. ^Cannot cast if owner's $Water ^less than $6.
+CAST       None
+
+SPELLNAME    CURING
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     11
+HEALTH    37
+ATTACK    6
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_leviathan
+BIGIMAGE  big_water_leviathan
+
+CUSTOMSFX       -1
+PRICE           70 0 0 0
+HOMEBUILDING    Wall of Eternal Ice
+

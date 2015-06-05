@@ -1,0 +1,22 @@
+NAME    BLADE MASTER
+
+ABILITY    When someone hurts $Blade Master, ^it roars in fury, dealing $1 ^damage to each enemy creature.
+SPELL      Casts $Shuriken ^to deal $2 ^damage directly to enemy player.
+CAST       None
+
+SPELLNAME    SHURIKEN
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     9
+HEALTH    30
+ATTACK    8
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_blademaster
+BIGIMAGE  big_fire_blademaster
+
+CUSTOMSFX       -1
+PRICE           0 0 0 100
+HOMEBUILDING    Grand Volcano

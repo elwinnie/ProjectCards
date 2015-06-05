@@ -1,0 +1,22 @@
+NAME    PALADIN
+
+ABILITY   Brings $300% ^of damage to undead creatures.
+SPELL     Casts $Exorcizm. ^Destroys any undead, but suffers $10 ^damage himself. Owner also loses $2 Life ^as a cost of this holy casting.
+CAST      None
+
+SPELLNAME    EXORCIZM
+SPELLTARGET  ENEMIES
+
+ELEMENT   LIFE
+LEVEL     8
+HEALTH    20
+ATTACK    4
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_life_paladin
+BIGIMAGE  big_life_paladin
+
+CUSTOMSFX       -1
+PRICE           30 0 0 0
+HOMEBUILDING    None

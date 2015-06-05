@@ -1,0 +1,22 @@
+NAME    EVIL SORCERER
+
+ABILITY    Magical attack, always equal $5. ^No damage from magic, unless it's another $Evil Sorcerer.
+SPELL      $Burning Hands. ^Deals $2 ^damage to opposite creature. Cost $1 Death.
+CAST       None
+
+SPELLNAME    BURNING HAND
+SPELLTARGET  NO
+
+ELEMENT   DEATH
+LEVEL     6
+HEALTH    14
+ATTACK    5
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_death_evilmagitian
+BIGIMAGE  big_death_evilmagitian
+
+CUSTOMSFX       -1
+PRICE           20 20 20 20
+HOMEBUILDING    Vortex Generator

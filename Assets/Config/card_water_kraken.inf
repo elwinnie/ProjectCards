@@ -1,0 +1,22 @@
+NAME    KRAKEN
+
+ABILITY    Attack is so powerful, that creature he attacks shifts it's position. If there's no place to shift position, creature suffers additional $10 ^damage.
+SPELL      Casts $Deep Hunger. ^Destroys all creatures in play except $Kraken. ^Owner loses $1 ^of each element for each destroyed creature. Cost $3 Water.
+CAST       None
+
+SPELLNAME    DEEP HUNGER
+SPELLTARGET  None
+
+ELEMENT   WATER
+LEVEL     15
+HEALTH    30
+ATTACK    7
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_water_kraken
+BIGIMAGE  big_water_kraken
+
+CUSTOMSFX       -1
+PRICE           150 0 0 0
+HOMEBUILDING    Epic Lake

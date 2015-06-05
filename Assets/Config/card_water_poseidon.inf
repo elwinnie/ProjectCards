@@ -1,0 +1,22 @@
+NAME    POSEIDON
+
+ABILITY    Every time anyone casts $Water ^spell or summons $Water ^creature, opponent suffers $4 ^damage and owner gains $2 ^health.
+SPELL      None
+CAST       None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     8
+HEALTH    25
+ATTACK    3
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_poseidon
+BIGIMAGE  big_water_poseidon
+
+CUSTOMSFX       -1
+PRICE           10 35 0 0
+HOMEBUILDING    Water Cathedral

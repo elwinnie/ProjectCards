@@ -1,0 +1,22 @@
+NAME    GOLEM
+
+ABILITY    Regenerates $3 ^health every turn. While owner's $Earth ^less than $3, ^it suffers $3 ^damage instead.
+SPELL      Nothing.
+CAST       None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     5
+HEALTH    15
+ATTACK    4
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_golem
+BIGIMAGE  big_earth_golem
+
+CUSTOMSFX       -1
+PRICE           140 70 0 0
+HOMEBUILDING    None

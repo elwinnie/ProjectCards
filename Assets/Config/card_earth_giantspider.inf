@@ -1,0 +1,22 @@
+NAME    GIANT SPIDER
+
+ABILITY    When summoned, permanently gains $+3 ^to attack if owner has other $Earth ^creatures in play.
+SPELL      Casts $Spider Web, ^preventing enemy creature from attacking on their turn. Does not prevent casting abilities.
+CAST       None
+
+SPELLNAME    SPIDER WEB
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     6
+HEALTH    18
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_giantspider
+BIGIMAGE  big_earth_giantspider
+
+CUSTOMSFX       -1
+PRICE           0 15 0 0
+HOMEBUILDING    Inventor's Camper

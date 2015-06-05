@@ -1,0 +1,23 @@
+NAME    FOREST SPIRIT
+
+ABILITY    Damage from all non-magical attacks and abilities equal to $1.
+SPELL      Casts $Youth of Forest, ^increasing owner player's health by $5. ^Costs two $Earth ^elements.
+CAST       None
+
+SPELLNAME    YOUTH
+SPELLTARGET  NO
+
+ELEMENT   EARTH
+LEVEL     3
+HEALTH    3
+ATTACK    2
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_earth_forestspirit
+BIGIMAGE  big_earth_forestspirit
+
+CUSTOMSFX       -1
+PRICE           50 0 6 0
+HOMEBUILDING    Ancient Tree
+

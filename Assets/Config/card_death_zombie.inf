@@ -1,0 +1,22 @@
+NAME    ZOMBIE
+
+ABILITY    Eats enemies corpses - every time it kills enemy creature, totally heals and his health increases by $3.
+SPELL      None
+CAST       None
+
+SPELLNAME    NONE
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     4
+HEALTH    11
+ATTACK    3
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_zombie
+BIGIMAGE  big_death_zombie
+
+CUSTOMSFX       -1
+PRICE           10 10 0 0
+HOMEBUILDING    None

@@ -1,0 +1,22 @@
+NAME    KNIGHT
+
+ABILITY    Whenever $Death ^creature uses casting ability, it suffers $3 ^damage. In the beginning of owner's turn, $Knight ^cures $2 ^damage from owner's creature with the least health left.
+SPELL      $Concentrates ^his will on enemy trooper. If this is not a $Life ^creature, this creature suffers $6 ^damage. This damage then dissipates equally to other enemy creatures. Cost $3 Life.
+CAST       None
+
+SPELLNAME    CONCENTRATION
+SPELLTARGET  ENEMIES
+
+ELEMENT   LIFE
+LEVEL     12
+HEALTH    24
+ATTACK    7
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_life_knight
+BIGIMAGE  big_life_knight
+
+CUSTOMSFX       -1
+PRICE           0 0 120 0
+HOMEBUILDING    Altar of Life

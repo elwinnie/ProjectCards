@@ -1,0 +1,22 @@
+NAME    HERMIT
+
+ABILITY    $+2 Life ^every turn.
+SPELL      Gives target creature a buff - $Gift of Life. ^Costs $4 Life, ^and $Hermit ^dies. Creature under this buff will rebirth after it dies.
+CAST       None
+
+SPELLNAME    GIFT OF LIFE
+SPELLTARGET  FRIENDLY
+
+ELEMENT   LIFE
+LEVEL     6
+HEALTH    11
+ATTACK    2
+CASTER    YES
+CASTCOST  4
+TYPE      MONSTER
+IMAGE     card_life_hermit
+BIGIMAGE  big_life_hermit
+
+CUSTOMSFX       -1
+PRICE           0 0 70 0
+HOMEBUILDING    Hermit Cavern

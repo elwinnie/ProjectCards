@@ -1,0 +1,22 @@
+NAME    GRIM REAPER
+
+ABILITY    Whenever creature dies, increases owner's $Death by one.
+SPELL      Consumes target enemy creature of level $3 ^or less. Owner player loses $3 Death ^elements.
+CAST       None
+
+SPELLNAME    CONSUME
+SPELLTARGET  ENEMIES
+
+ELEMENT   DEATH
+LEVEL     11
+HEALTH    25
+ATTACK    7
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_death_grimreaper
+BIGIMAGE  big_death_grimreaper
+
+CUSTOMSFX       -1
+PRICE           30 30 30 30
+HOMEBUILDING    Black Citadel

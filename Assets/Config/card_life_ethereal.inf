@@ -1,0 +1,22 @@
+NAME    ETHEREAL
+
+ABILITY    Suffers no damage from direct attacks and casting abilities, only spells can harm him. If $Life ^or $Earth ^creature is summoned, $Ethereal ^heals owner for $3.
+SPELL      Nothing.
+CAST       None
+
+SPELLNAME    REFLOW
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     7
+HEALTH    9
+ATTACK    2
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_ethereal
+BIGIMAGE  big_life_ethereal
+
+CUSTOMSFX       -1
+PRICE           0 0 100 0
+HOMEBUILDING    Unicorn Meadow

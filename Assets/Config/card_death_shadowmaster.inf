@@ -1,0 +1,22 @@
+NAME    SHADOW
+
+ABILITY    All damage to Shadow is reduced by $50% ^to no less than $1. ^Suffers extra $5 ^damage from $Life ^creatures' attacks.
+SPELL      $Blend. ^Choose friendly creature - this creature is healed by $10 ^and gains $+10 ^maximum health. $Shadow ^dies.
+CAST       None
+
+SPELLNAME    BLEND
+SPELLTARGET  FRIENDLY
+
+ELEMENT   DEATH
+LEVEL     5
+HEALTH    10
+ATTACK    3
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_shadowmaster
+BIGIMAGE  big_death_shadowmaster
+
+CUSTOMSFX       -1
+PRICE           10 10 10 10
+HOMEBUILDING    Sinister Manor

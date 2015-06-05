@@ -1,0 +1,22 @@
+NAME    WEREWOLF
+
+ABILITY    When dies, becomes a ghost.
+SPELL      Casts $Blood Rage ^on self. Strikes twice as hard this turn, but owner loses $3 Death ^points on casting.
+CAST       None
+
+SPELLNAME    BLOOD RAGE
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     6
+HEALTH    16
+ATTACK    6
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_death_werewolf
+BIGIMAGE  big_death_werewolf
+
+CUSTOMSFX       -1
+PRICE           15 15 15 15
+HOMEBUILDING    Woods of Pain

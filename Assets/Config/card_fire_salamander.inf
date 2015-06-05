@@ -1,0 +1,22 @@
+NAME      SALAMANDER
+
+ABILITY   Increases attack of all owner's creatures by $2. ^Increases damage from owner player's spellcastings by $2.
+SPELL     None
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  No
+
+ELEMENT   FIRE
+LEVEL     8
+HEALTH    26
+ATTACK    3
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_salamandra
+BIGIMAGE  big_fire_salamandra
+
+CUSTOMSFX       -1
+PRICE           0 0 0 90
+HOMEBUILDING    Gates of Hell

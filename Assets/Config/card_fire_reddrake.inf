@@ -1,0 +1,22 @@
+NAME      RED DRAKE
+
+ABILITY   When summoned, each enemy suffers $3 ^damage. $Red Drake ^Suffers no damage from $Fire ^spells and creatures.
+SPELL     None
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     7
+HEALTH    16
+ATTACK    5
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_reddrake
+BIGIMAGE  big_fire_reddrake
+
+CUSTOMSFX       3
+PRICE           0 0 0 100
+HOMEBUILDING    Fire Tower

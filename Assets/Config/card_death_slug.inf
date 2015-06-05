@@ -1,0 +1,22 @@
+NAME    SLUG
+
+ABILITY    Whenever attacks enemy creature, poisons it. Poison effect increases by $1 ^with every attack.
+SPELL      Casts $Disease ^to poison enemy creature. If it was poisoned already, poison increases effect. Cost $1 ^Death.
+CAST       None
+
+SPELLNAME    DISEASE
+SPELLTARGET  ENEMIES
+
+ELEMENT   DEATH
+LEVEL     6
+HEALTH    20
+ATTACK    4
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_death_slug
+BIGIMAGE  big_death_slug
+
+CUSTOMSFX       -1
+PRICE           20 20 20 20
+HOMEBUILDING    Vortex Generator

@@ -1,0 +1,23 @@
+NAME    PRIEST
+
+ABILITY   +2 to Life, -2 to Death elements every turn. Decreases owner's $Life ^by $3 ^every time owner casts $Death ^spells.
+SPELL     None
+CAST      None
+
+SPELLNAME    SERVE DEATH
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     4
+HEALTH    9
+ATTACK    1
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_priest
+BIGIMAGE  big_life_priest
+
+CUSTOMSFX       -1
+PRICE           20 0 1 0
+HOMEBUILDING    Ancient Temple
+

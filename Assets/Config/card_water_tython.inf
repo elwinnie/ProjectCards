@@ -1,0 +1,22 @@
+NAME    TYTHON
+
+ABILITY    Increases its attack by $1 ^each turn. Loses $2 ^Health each turn.
+SPELL      Casts $Disperse ^to heal all friendly units equal to health left. Dies from this. Cannot cast if cannot attack this turn.
+CAST       None
+
+SPELLNAME    DISPERSE
+SPELLTARGET  None
+
+ELEMENT   WATER
+LEVEL     7
+HEALTH    26
+ATTACK    4
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_tython
+BIGIMAGE  big_water_tython
+
+CUSTOMSFX       -1
+PRICE           50 0 0 0
+HOMEBUILDING    Mystic Pond

@@ -1,0 +1,22 @@
+NAME    SCYLLA
+
+ABILITY    When $Scylla ^enters play, both you and your opponent receive $3 Water ^elements. Whenever your opponent casts a $Water ^spell or creature, he then gains $1 Water ^element.
+SPELL      Casts $Reflow. Schylla ^heals self for $5. ^As a cost, enemy player gains $2 ^Water elements.
+CAST       None
+
+SPELLNAME    REFLOW
+SPELLTARGET  None
+
+ELEMENT   WATER
+LEVEL     6
+HEALTH    18
+ATTACK    5
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_scylla
+BIGIMAGE  big_water_scylla
+
+CUSTOMSFX       -1
+PRICE           10 0 0 0
+HOMEBUILDING    Water Cathedral

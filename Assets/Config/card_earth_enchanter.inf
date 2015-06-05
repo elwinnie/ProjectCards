@@ -1,0 +1,22 @@
+NAME    ENCHANTER
+
+ABILITY    Heals friendly creatures for $1 ^every turn. If his health is reduced to $3 ^or less, dissolves to surround, dying and healing owner's creatures for $5.
+SPELL      By casting $Refill ^regenerates self for $4. ^Owner loses $2 Earth.
+CAST       None
+
+SPELLNAME    REFILL
+SPELLTARGET  None
+
+ELEMENT   EARTH
+LEVEL     7
+HEALTH    16
+ATTACK    5
+CASTER    YES
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_earth_enchanter
+BIGIMAGE  big_earth_enchanter
+
+CUSTOMSFX       -1
+PRICE           0 20 0 0
+HOMEBUILDING    Enchanted Forest

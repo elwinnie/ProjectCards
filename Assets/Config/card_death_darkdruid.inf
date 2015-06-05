@@ -1,0 +1,22 @@
+NAME    DARK DRUID
+
+ABILITY    Whenever enemy creature dies, heals owner equal to level of destroyed creature. Whenever spell is cast, deals damage to enemy player equal to level of that spell.
+SPELL      None
+CAST       None
+
+SPELLNAME    None
+SPELLTARGET  None
+
+ELEMENT   DEATH
+LEVEL     12
+HEALTH    40
+ATTACK    8
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_darkdruid
+BIGIMAGE  big_death_darkdruid
+
+CUSTOMSFX       -1
+PRICE           30 30 30 30
+HOMEBUILDING    Black Citadel

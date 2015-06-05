@@ -1,0 +1,22 @@
+NAME    BERSERKER
+
+ABILITY    Suffers $+2 ^damage from all attacks.
+SPELL      $Berserk: ^hit opposed creature for $4 ^health. Lose $4 ^health itself. Can cast continuously, but you must have $4 ^health to pay for casting.
+CAST       None
+
+SPELLNAME    BERSERK
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     7
+HEALTH    32
+ATTACK    5
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_berserker
+BIGIMAGE  big_fire_berserker
+
+CUSTOMSFX       -1
+PRICE           0 0 0 85
+HOMEBUILDING    Fire Tower

@@ -1,0 +1,22 @@
+NAME    SKELETON
+
+ABILITY    $+1 Death ^every turn. Regenerates $1 ^health each turn. Deals additional $2 ^damage if target creature has less than $7 health.
+SPELL      None
+CAST       None
+
+SPELLNAME    BLEND
+SPELLTARGET  FRIENDLY
+
+ELEMENT   DEATH
+LEVEL     3
+HEALTH    9
+ATTACK    3
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_sceleton
+BIGIMAGE  big_death_sceleton
+
+CUSTOMSFX       -1
+PRICE           10 10 10 10
+HOMEBUILDING    Woods of Pain

@@ -1,0 +1,22 @@
+NAME    DISPERCER
+
+ABILITY    Whenever dispercer dies, owner restores $1 ^of each element.
+SPELL      None
+CAST       None
+
+SPELLNAME    LIGHTNING
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     2
+HEALTH    13
+ATTACK    1
+CASTER    NO
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_earth_dispercer
+BIGIMAGE  big_earth_dispercer
+
+CUSTOMSFX       -1
+PRICE           0 5 0 0
+HOMEBUILDING    Wave Tower

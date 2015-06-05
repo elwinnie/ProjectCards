@@ -1,0 +1,22 @@
+NAME    BANSHEE
+
+ABILITY    When summoned, deals $8 ^damage to enemy. When attacks enemy player, dies and enemy player suffers $10 ^points of extra damage.
+SPELL      Nothing.
+CAST       None
+
+SPELLNAME    NONE
+SPELLTARGET  NONE
+
+ELEMENT   DEATH
+LEVEL     7
+HEALTH    12
+ATTACK    5
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_death_banshee
+BIGIMAGE  big_death_banshee
+
+CUSTOMSFX       -1
+PRICE           15 15 15 15
+HOMEBUILDING    Atlar of Despair

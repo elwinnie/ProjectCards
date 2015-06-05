@@ -1,0 +1,22 @@
+NAME    AVATAR
+
+ABILITY    Summoned with health equal to owner's. When owner is hit, Avatar is also hit equally. There can be only one Avatar on one side.
+SPELL      None
+CAST       None
+
+SPELLNAME    REFLOW
+SPELLTARGET  None
+
+ELEMENT   LIFE
+LEVEL     10
+HEALTH    50
+ATTACK    5
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_life_avatar
+BIGIMAGE  big_life_avatar
+
+CUSTOMSFX       -1
+PRICE           0 0 100 0
+HOMEBUILDING    Blessed Statue

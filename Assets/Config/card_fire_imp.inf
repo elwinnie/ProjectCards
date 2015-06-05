@@ -1,0 +1,23 @@
+NAME      IMP
+
+ABILITY   Dies whenever it's health becomes $4 ^or less. Whenever dies, deals $4 ^damage to the enemy player.
+SPELL     None
+CAST      None
+
+SPELLNAME    None
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     4
+HEALTH    14
+ATTACK    4
+CASTER    No
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_imp
+BIGIMAGE  big_fire_imp
+
+CUSTOMSFX       -1
+PRICE           0 0 0 50
+HOMEBUILDING    Circle of Doom
+

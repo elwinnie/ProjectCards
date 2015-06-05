@@ -1,0 +1,22 @@
+NAME    GIANT TURTLE
+
+ABILITY    Squashing attack - if attacks a creature with health less than $10, ^kills it instantly. $-1 ^damage from all attacks.
+SPELL      $Shell. ^Becomes invincible for $1 ^turn. Cost $3 Water.
+CAST       None
+
+SPELLNAME    SHELL
+SPELLTARGET  NO
+
+ELEMENT   WATER
+LEVEL     10
+HEALTH    30
+ATTACK    5
+CASTER    YES
+CASTCOST  3
+TYPE      MONSTER
+IMAGE     card_water_giantturtle
+BIGIMAGE  big_water_giantturtle
+
+CUSTOMSFX       -1
+PRICE           70 0 0 0
+HOMEBUILDING    Magic Sphere

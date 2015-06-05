@@ -1,0 +1,22 @@
+NAME    MOLOCH
+
+ABILITY    $+1 Earth ^every turn. Attack equal to owner's $Earth. ^When summoned, deals damage to enemy creatures equal to their level.
+SPELL      None
+CAST       None
+
+SPELLNAME    STONESKIN
+SPELLTARGET  FRIENDLY
+
+ELEMENT   EARTH
+LEVEL     10
+HEALTH    35
+ATTACK    0
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_earth_moloch
+BIGIMAGE  big_earth_moloch
+
+CUSTOMSFX       -1
+PRICE           0 300 0 0
+HOMEBUILDING    Ancient Tree

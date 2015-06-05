@@ -1,0 +1,23 @@
+NAME      DEMON
+
+ABILITY   Doesn't suffer from $Fire ^and $Earth ^spells.
+SPELL     Whenever $Demon ^casts $Fire Breeds ^owner loses $1 Earth ^and receives $2 Fire ^elements.
+CAST      None
+
+SPELLNAME    FIRE BREEDS
+SPELLTARGET  NO
+
+ELEMENT   FIRE
+LEVEL     5
+HEALTH    12
+ATTACK    2
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_demon
+BIGIMAGE  big_fire_demon
+
+CUSTOMSFX       2
+PRICE           0 0 0 60
+HOMEBUILDING    Lava Fountain
+

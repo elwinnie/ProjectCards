@@ -1,0 +1,22 @@
+NAME    OCEAN LORD
+
+ABILITY    Whenever attacks another $Water ^creature, reduces this creature's base attack to $1, ^if it was more than $1. ^When dies, becomes $Tentacle.
+SPELL      Choose a free slot and summon $Tentacle. Cost 1 Water.
+CAST       None
+
+SPELLNAME    SUMMON
+SPELLTARGET  EMPTY_OWNER
+
+ELEMENT   WATER
+LEVEL     10
+HEALTH    25
+ATTACK    5
+CASTER    YES
+CASTCOST  1
+TYPE      MONSTER
+IMAGE     card_water_archont
+BIGIMAGE  big_water_archont
+
+CUSTOMSFX       -1
+PRICE           100 0 0 0
+HOMEBUILDING    Epic Lake

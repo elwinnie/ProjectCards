@@ -1,0 +1,22 @@
+NAME    SCARELING
+
+ABILITY    Deals double damage at full health. Doesn't attack if its health less than $7. ^Regenerates $2 ^health each turn.
+SPELL      None
+CAST       None
+
+SPELLNAME    LIGHTNING
+SPELLTARGET  ENEMIES
+
+ELEMENT   EARTH
+LEVEL     4
+HEALTH    12
+ATTACK    3
+CASTER    NO
+CASTCOST  2
+TYPE      MONSTER
+IMAGE     card_earth_scareling
+BIGIMAGE  big_earth_scareling
+
+CUSTOMSFX       -1
+PRICE           0 10 0 0
+HOMEBUILDING    Earth Temple

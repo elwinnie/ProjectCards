@@ -1,0 +1,22 @@
+NAME      FIRELORD
+
+ABILITY   +1 Fire every turn for both players. Upon dying, brings 8 damage to each player.
+SPELL     Casts $BloodLust ^on any creature. That creature get it's attack increased by $50%, ^but loses 2 health every turn.
+CAST      None
+
+SPELLNAME    BLOODLUST
+SPELLTARGET  FRIENDLY
+
+ELEMENT   FIRE
+LEVEL     11
+HEALTH    21
+ATTACK    7
+CASTER    YES
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_fire_firelord
+BIGIMAGE  big_fire_firelord
+
+CUSTOMSFX       2
+PRICE           200 50 0 0
+HOMEBUILDING    None

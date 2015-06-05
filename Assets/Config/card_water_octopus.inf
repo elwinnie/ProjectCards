@@ -1,0 +1,22 @@
+NAME    TENTACLE
+
+ABILITY    Attacks all enemies. $+1 ^attack for each $Tentacle ^on your side.
+SPELL      None
+CAST       None
+
+SPELLNAME    SUMMON
+SPELLTARGET  EMPTY_SLOT
+
+ELEMENT   WATER
+LEVEL     2
+HEALTH    6
+ATTACK    0
+CASTER    NO
+CASTCOST  0
+TYPE      MONSTER
+IMAGE     card_water_tentacle
+BIGIMAGE  big_water_tentacle
+
+CUSTOMSFX       -1
+PRICE           15 0 0 0
+HOMEBUILDING    Fountain of Youth
